@@ -7,3 +7,4 @@
 - http://modelai.gettysburg.edu/2013/cfr/
 - https://www.quora.com/What-is-an-intuitive-explanation-of-counterfactual-regret-minimization
 - https://github.com/deepmind/open_spiel
+- https://int8.io/counterfactual-regret-minimization-for-poker-ai/
