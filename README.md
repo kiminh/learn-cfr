@@ -2,7 +2,7 @@
 
 - CFR paper: http://papers.nips.cc/paper/3306-regret-minimization-in-games-with-incomplete-information.pdf
 - MCCFR paper: http://papers.nips.cc/paper/3713-monte-carlo-sampling-for-regret-minimization-in-extensive-games.pdf
-- CFR FOR MULTIPLAYER POKER: https://poker.cs.ualberta.ca/publications/AAMAS10.pdf
+- CFR for multiplayer poker: https://poker.cs.ualberta.ca/publications/AAMAS10.pdf
 - Multiplayer Poker Agent: https://www.onlinecasinoground.nl/wp-content/uploads/2019/07/Science-Superhuman-AI-for-multiplayer-poker-Brown-and-Sandholm-2019.pdf
 - Multiplayer Poker Agent Detailed: https://science.sciencemag.org/content/sci/suppl/2019/07/10/science.aay2400.DC1/aay2400-Brown-SM.pdf
 - Intro to CFR: http://modelai.gettysburg.edu/2013/cfr/
